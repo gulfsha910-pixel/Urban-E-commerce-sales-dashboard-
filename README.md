@@ -1,4 +1,4 @@
-# Urban-E-commerce-sales-dashboard-
+# Urban-E-commerce-sales-dashboard
 ## ✨🚀 Urban E-Commerce Sales Dashboard – Power BI Project 🚀✨
 
 Proud to share my latest Power BI dashboard designed for E-Commerce Sales Analysis 📊
